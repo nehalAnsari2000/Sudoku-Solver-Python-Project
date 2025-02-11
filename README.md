@@ -1,6 +1,6 @@
 # Sudoku Solver (Python)
 
-This project is a **Sudoku Solver** implemented in Python as part of the **Scientific Computing with Python** certification. It takes an incomplete Sudoku board as input and finds the correct solution using the **Backtracking Algorithm**.
+This project is a **Sudoku Solver** implemented in Python as part of the **Scientific Computing with Python** certification on **FreeCodeCamp**. It takes an incomplete Sudoku board as input and finds the correct solution using the **Backtracking Algorithm**.
 
 ## 🧩 Features
 
